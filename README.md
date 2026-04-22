@@ -3,7 +3,7 @@
 
 ---
 
-## Overview
+## Overview of project structure
 
 A command-line Java application for managing group exercise lesson bookings
 at Furzefield Leisure Centre (FLC). Members can view the timetable, create
